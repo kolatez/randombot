@@ -1,4 +1,7 @@
 # randombot
+this is like only for a friend and i have to private this somewhere in the future idk
+the bots old token is there but for security purposes i put a new one that u cant get :D
+
 install the files above and put them in a new folder called "mimicbot" (or whatever name)
 
 ok so basically this is a simple bot with about 3 commands, <ping, <beep, and like the main one which is where u mention it
