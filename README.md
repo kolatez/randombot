@@ -12,3 +12,6 @@ TO RUN IT YOU NEED TO HAVE NODE.JS
 go download that or something: https://nodejs.org/en/download/
 dont touch anything but the txt file if u want it to WORK.
 now bye :D
+
+
+invite link: https://discord.com/oauth2/authorize?client_id=762725950361305128&permissions=2148005952&scope=bot
