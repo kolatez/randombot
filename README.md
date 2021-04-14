@@ -4,7 +4,7 @@ the bots old token is there but for security purposes i put a new one that u can
 
 install the files above and put them in a new folder called "mimicbot" (or whatever name)
 
-ok so basically this is a simple bot with about 3 commands, <ping, <beep, and like the main one which is where u mention it
+ok so basically this is a simple bot with about 4 commands, <ping, <beep, <what is (person you ping), and like the main one which is where u mention it
 
 ALSO THIS IS MISSING A FEW FILES, JUST DOWNLOAD DISCORD.JS WITH NODE.JS IN THE FOLDER USING COMMAND PROMPT TO INSTALL IT IN MIMIC BOT FOLDER USING "npm install discord.js" IN THE COMMAND PROMPT (make sure its cd/PCNAME/downloads/the folder you named mimicbot) then run the bot with the command "node index.js"
 
